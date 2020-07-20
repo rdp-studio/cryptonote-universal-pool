@@ -1,8 +1,8 @@
 {
-    "coin": "ducknote",
-    "symbol": "XDN",
+    "coin": "RDPCoin",
+    "symbol": "RSC",
     "coinUnits": 100000000,
-    "coinDifficultyTarget": 240,
+    "coinDifficultyTarget": 60,
 
     "logging": {
         "files": {
@@ -105,12 +105,12 @@
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 42081
+        "port": 17217
     },
 
     "wallet": {
         "host": "127.0.0.1",
-        "port": 8082
+        "port": 17227
     },
 
     "redis": {
