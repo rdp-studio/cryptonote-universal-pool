@@ -1,4 +1,4 @@
-cryptonote-universal-pool
+RDPCoin Mineing Pool Server Appliction
 ====================
 
 High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, QuazarCoin, Boolberry, Dashcoin, etc..
